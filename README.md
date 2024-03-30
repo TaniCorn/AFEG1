@@ -1,6 +1,7 @@
 # 6 hour game jam
 
 A fun little 6 hour game jam with the theme of calm and chaos. It was tough getting all the mechanics implemented in time, but the game somehow got completed!
+Only the scripts have been pushed to Github.
 
 ![image](https://github.com/TaniCorn/AFEG1/assets/63819551/2e65866b-9010-4a26-ab86-4376497b0089)
 ![image](https://github.com/TaniCorn/AFEG1/assets/63819551/3adf3c5e-f493-4ed7-8a25-d734769e9d28)
